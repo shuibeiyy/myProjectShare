@@ -1,0 +1,30 @@
+Info[2023-11-4 18:3:5]CELLLog::setLogPath success,<clientLog[2023-11-4_18-3-5].txt,w>
+Debug[2023-11-4 18:3:5]thread<1>,start
+Debug[2023-11-4 18:3:5]thread<2>,start
+Debug[2023-11-4 18:3:5]thread<3>,start
+Debug[2023-11-4 18:3:5]thread<4>,start
+Debug[2023-11-4 18:3:5]thread<4>,Connect<begin=750, end=1000>
+Debug[2023-11-4 18:3:5]thread<1>,Connect<begin=0, end=250>
+Debug[2023-11-4 18:3:5]thread<3>,Connect<begin=500, end=750>
+Debug[2023-11-4 18:3:5]thread<2>,Connect<begin=250, end=500>
+Debug[2023-11-4 18:3:6]thread<4>,clients<1000>,time<1.000103>,send<9249>
+Debug[2023-11-4 18:3:7]thread<4>,clients<1000>,time<1.012785>,send<9626>
+Debug[2023-11-4 18:3:8]thread<4>,clients<1000>,time<1.012366>,send<9877>
+Debug[2023-11-4 18:3:9]thread<4>,clients<1000>,time<1.012991>,send<8884>
+Debug[2023-11-4 18:3:10]thread<4>,clients<1000>,time<1.001805>,send<9981>
+Debug[2023-11-4 18:3:11]thread<4>,clients<1000>,time<1.007041>,send<8937>
+Debug[2023-11-4 18:3:12]thread<4>,clients<1000>,time<1.000997>,send<9281>
+Debug[2023-11-4 18:3:13]thread<4>,clients<1000>,time<1.014208>,send<9518>
+Debug[2023-11-4 18:3:14]thread<4>,clients<1000>,time<1.014913>,send<9853>
+Debug[2023-11-4 18:3:15]thread<4>,clients<1000>,time<1.014089>,send<8874>
+Debug[2023-11-4 18:3:16]thread<4>,clients<1000>,time<1.010802>,send<9893>
+Debug[2023-11-4 18:3:17]thread<4>,clients<1000>,time<1.001328>,send<8988>
+Debug[2023-11-4 18:3:18]thread<4>,clients<1000>,time<1.013788>,send<9863>
+Debug[2023-11-4 18:3:19]thread<4>,clients<1000>,time<1.000712>,send<8993>
+Debug[2023-11-4 18:3:20]thread<4>,clients<1000>,time<1.001908>,send<9980>
+Debug[2023-11-4 18:3:21]thread<4>,clients<1000>,time<1.001462>,send<8986>
+Debug[2023-11-4 18:3:22]thread<4>,clients<1000>,time<1.000608>,send<9244>
+Debug[2023-11-4 18:3:23]thread<4>,clients<1000>,time<1.000693>,send<9743>
+Debug[2023-11-4 18:3:24]thread<4>,clients<1000>,time<1.011580>,send<9391>
+Debug[2023-11-4 18:3:25]thread<4>,clients<1000>,time<1.003840>,send<9463>
+Debug[2023-11-4 18:3:26]thread<4>,clients<1000>,time<1.000192>,send<9248>

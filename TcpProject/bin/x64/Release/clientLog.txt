@@ -1,0 +1,21 @@
+Info[2023-11-4 9:39:0]CELLLog::setLogPath success,<clientLog.txt,w>
+Debug[2023-11-4 9:39:0]thread<1>,start
+Debug[2023-11-4 9:39:0]thread<2>,start
+Debug[2023-11-4 9:39:0]thread<3>,start
+Debug[2023-11-4 9:39:0]thread<4>,start
+Debug[2023-11-4 9:39:0]thread<1>,Connect<begin=0, end=250>
+Debug[2023-11-4 9:39:0]thread<2>,Connect<begin=250, end=500>
+Debug[2023-11-4 9:39:0]thread<3>,Connect<begin=500, end=750>
+Debug[2023-11-4 9:39:0]thread<4>,Connect<begin=750, end=1000>
+Debug[2023-11-4 9:39:1]thread<4>,clients<1000>,time<1.006580>,send<9934>
+Debug[2023-11-4 9:39:2]thread<4>,clients<1000>,time<1.003857>,send<8965>
+Debug[2023-11-4 9:39:3]thread<4>,clients<1000>,time<1.014414>,send<9857>
+Debug[2023-11-4 9:39:4]thread<4>,clients<1000>,time<1.011914>,send<8894>
+Debug[2023-11-4 9:39:5]thread<4>,clients<1000>,time<1.014781>,send<9854>
+Debug[2023-11-4 9:39:6]thread<4>,clients<1000>,time<1.014055>,send<9121>
+Debug[2023-11-4 9:39:7]thread<4>,clients<1000>,time<1.001100>,send<9739>
+Debug[2023-11-4 9:39:8]thread<4>,clients<1000>,time<1.002825>,send<8974>
+Debug[2023-11-4 9:39:9]thread<4>,clients<1000>,time<1.010686>,send<9894>
+Debug[2023-11-4 9:39:10]thread<4>,clients<1000>,time<1.001118>,send<8989>
+Debug[2023-11-4 9:39:11]thread<4>,clients<1000>,time<1.013028>,send<9871>
+Debug[2023-11-4 9:39:12]thread<4>,clients<1000>,time<1.015072>,send<9112>

@@ -1,0 +1,38 @@
+Info[2023-11-6 12:52:55]CELLLog::setLogPath success,<clientLog[2023-11-6_12-52-55].txt,w>
+Debug[2023-11-6 12:52:55]thread<1>,start
+Debug[2023-11-6 12:52:55]thread<3>,start
+Debug[2023-11-6 12:52:55]thread<2>,start
+Debug[2023-11-6 12:52:55]thread<4>,start
+Debug[2023-11-6 12:52:55]thread<2>,Connect<begin=250, end=500>
+Debug[2023-11-6 12:52:55]thread<3>,Connect<begin=500, end=750>
+Debug[2023-11-6 12:52:55]thread<1>,Connect<begin=0, end=250>
+Debug[2023-11-6 12:52:55]thread<4>,Connect<begin=750, end=1000>
+Debug[2023-11-6 12:52:56]thread<4>,clients<1000>,time<1.005857>,send<9196>
+Debug[2023-11-6 12:52:57]thread<4>,clients<1000>,time<1.001510>,send<9735>
+Debug[2023-11-6 12:52:58]thread<4>,clients<1000>,time<1.011989>,send<9140>
+Debug[2023-11-6 12:52:59]thread<4>,clients<1000>,time<1.002018>,send<9730>
+Debug[2023-11-6 12:53:0]thread<4>,clients<1000>,time<1.003041>,send<8972>
+Debug[2023-11-6 12:53:1]thread<4>,clients<1000>,time<1.013207>,send<9853>
+Debug[2023-11-6 12:53:2]thread<4>,clients<1000>,time<1.014683>,send<9193>
+Debug[2023-11-6 12:53:3]thread<4>,clients<1000>,time<1.003283>,send<9429>
+Debug[2023-11-6 12:53:4]thread<4>,clients<1000>,time<1.014831>,send<9853>
+Debug[2023-11-6 12:53:5]thread<4>,clients<1000>,time<1.001514>,send<8986>
+Debug[2023-11-6 12:53:6]thread<4>,clients<1000>,time<1.006685>,send<8983>
+Debug[2023-11-6 12:53:7]thread<4>,clients<1000>,time<1.000744>,send<9863>
+Debug[2023-11-6 12:53:8]thread<4>,clients<1000>,time<1.012800>,send<8886>
+Debug[2023-11-6 12:53:9]thread<4>,clients<1000>,time<1.013346>,send<9863>
+Debug[2023-11-6 12:53:10]thread<4>,clients<1000>,time<1.000819>,send<9242>
+Debug[2023-11-6 12:53:11]thread<4>,clients<1000>,time<1.007071>,send<9681>
+Debug[2023-11-6 12:53:12]thread<4>,clients<1000>,time<1.001788>,send<8983>
+Debug[2023-11-6 12:53:13]thread<4>,clients<1000>,time<1.002096>,send<9979>
+Debug[2023-11-6 12:53:14]thread<4>,clients<1000>,time<1.001652>,send<8985>
+Debug[2023-11-6 12:53:15]thread<4>,clients<1000>,time<1.003094>,send<9969>
+Debug[2023-11-6 12:53:16]thread<4>,clients<1000>,time<1.002035>,send<8981>
+Debug[2023-11-6 12:53:17]thread<4>,clients<1000>,time<1.001070>,send<9091>
+Debug[2023-11-6 12:53:18]thread<4>,clients<1000>,time<1.000469>,send<9787>
+Debug[2023-11-6 12:53:19]thread<4>,clients<1000>,time<1.001963>,send<8982>
+Debug[2023-11-6 12:53:20]thread<4>,clients<1000>,time<1.005524>,send<9945>
+Debug[2023-11-6 12:53:21]thread<4>,clients<1000>,time<1.003235>,send<8970>
+Debug[2023-11-6 12:53:22]thread<4>,clients<1000>,time<1.004143>,send<9832>
+Debug[2023-11-6 12:53:23]thread<4>,clients<1000>,time<1.004460>,send<8960>
+Debug[2023-11-6 12:53:24]thread<4>,clients<1000>,time<1.002490>,send<9160>

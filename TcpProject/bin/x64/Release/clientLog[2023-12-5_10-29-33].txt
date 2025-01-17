@@ -1,0 +1,27 @@
+Info[2023-12-5 10:29:33]CELLLog::setLogPath success,<clientLog[2023-12-5_10-29-33].txt,w>
+Debug[2023-12-5 10:29:33]thread<1>,start
+Debug[2023-12-5 10:29:33]thread<4>,start
+Debug[2023-12-5 10:29:33]thread<3>,start
+Debug[2023-12-5 10:29:33]thread<2>,start
+Debug[2023-12-5 10:29:33]thread<1>,Connect<begin=0, end=250>
+Debug[2023-12-5 10:29:33]thread<2>,Connect<begin=250, end=500>
+Debug[2023-12-5 10:29:33]thread<3>,Connect<begin=500, end=750>
+Debug[2023-12-5 10:29:33]thread<4>,Connect<begin=750, end=1000>
+Debug[2023-12-5 10:29:34]thread<4>,clients<1000>,time<1.008134>,send<9919>
+Debug[2023-12-5 10:29:35]thread<4>,clients<1000>,time<1.005846>,send<8947>
+Debug[2023-12-5 10:29:36]thread<4>,clients<1000>,time<1.006765>,send<9932>
+Debug[2023-12-5 10:29:37]thread<4>,clients<1000>,time<1.006913>,send<9351>
+Debug[2023-12-5 10:29:38]thread<4>,clients<1000>,time<1.006064>,send<9452>
+Debug[2023-12-5 10:29:39]thread<4>,clients<1000>,time<1.007013>,send<9682>
+Debug[2023-12-5 10:29:40]thread<4>,clients<1000>,time<1.007049>,send<9185>
+Debug[2023-12-5 10:29:41]thread<4>,clients<1000>,time<1.006897>,send<9931>
+Debug[2023-12-5 10:29:42]thread<4>,clients<1000>,time<1.006997>,send<8937>
+Debug[2023-12-5 10:29:43]thread<4>,clients<1000>,time<1.006901>,send<9931>
+Debug[2023-12-5 10:29:44]thread<4>,clients<1000>,time<1.006783>,send<9187>
+Debug[2023-12-5 10:29:45]thread<4>,clients<1000>,time<1.006686>,send<9685>
+Debug[2023-12-5 10:29:46]thread<4>,clients<1000>,time<1.007347>,send<9678>
+Debug[2023-12-5 10:29:47]thread<4>,clients<1000>,time<1.007134>,send<9184>
+Debug[2023-12-5 10:29:48]thread<4>,clients<1000>,time<1.007155>,send<9928>
+Debug[2023-12-5 10:29:49]thread<4>,clients<1000>,time<1.006766>,send<8939>
+Debug[2023-12-5 10:29:50]thread<4>,clients<1000>,time<1.006763>,send<9932>
+Debug[2023-12-5 10:29:51]thread<4>,clients<1000>,time<1.006773>,send<9187>

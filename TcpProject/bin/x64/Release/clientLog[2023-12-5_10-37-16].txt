@@ -1,0 +1,29 @@
+Info[2023-12-5 10:37:16]CELLLog::setLogPath success,<clientLog[2023-12-5_10-37-16].txt,w>
+Debug[2023-12-5 10:37:16]thread<2>,start
+Debug[2023-12-5 10:37:16]thread<1>,start
+Debug[2023-12-5 10:37:16]thread<3>,start
+Debug[2023-12-5 10:37:16]thread<4>,start
+Debug[2023-12-5 10:37:16]thread<4>,Connect<begin=750, end=1000>
+Debug[2023-12-5 10:37:16]thread<2>,Connect<begin=250, end=500>
+Debug[2023-12-5 10:37:16]thread<1>,Connect<begin=0, end=250>
+Debug[2023-12-5 10:37:16]thread<3>,Connect<begin=500, end=750>
+Debug[2023-12-5 10:37:17]thread<4>,clients<1000>,time<1.004175>,send<9958>
+Debug[2023-12-5 10:37:18]thread<4>,clients<1000>,time<1.006692>,send<8940>
+Debug[2023-12-5 10:37:19]thread<4>,clients<1000>,time<1.006813>,send<9932>
+Debug[2023-12-5 10:37:20]thread<4>,clients<1000>,time<1.006912>,send<8938>
+Debug[2023-12-5 10:37:21]thread<4>,clients<1000>,time<1.006825>,send<9932>
+Debug[2023-12-5 10:37:22]thread<4>,clients<1000>,time<1.006821>,send<9316>
+Debug[2023-12-5 10:37:23]thread<4>,clients<1000>,time<1.006887>,send<9466>
+Debug[2023-12-5 10:37:24]thread<4>,clients<1000>,time<1.006928>,send<9931>
+Debug[2023-12-5 10:37:25]thread<4>,clients<1000>,time<1.006712>,send<8939>
+Debug[2023-12-5 10:37:26]thread<4>,clients<1000>,time<1.006776>,send<9932>
+Debug[2023-12-5 10:37:27]thread<4>,clients<1000>,time<1.006705>,send<8940>
+Debug[2023-12-5 10:37:28]thread<4>,clients<1000>,time<1.006725>,send<9933>
+Debug[2023-12-5 10:37:29]thread<4>,clients<1000>,time<1.006778>,send<9343>
+Debug[2023-12-5 10:37:30]thread<4>,clients<1000>,time<1.006711>,send<9461>
+Debug[2023-12-5 10:37:31]thread<4>,clients<1000>,time<1.007043>,send<9930>
+Debug[2023-12-5 10:37:32]thread<4>,clients<1000>,time<1.007222>,send<8935>
+Debug[2023-12-5 10:37:33]thread<4>,clients<1000>,time<1.006780>,send<9932>
+Debug[2023-12-5 10:37:34]thread<4>,clients<1000>,time<1.006740>,send<8951>
+Debug[2023-12-5 10:37:35]thread<4>,clients<1000>,time<1.006987>,send<9918>
+Debug[2023-12-5 10:37:36]thread<4>,clients<1000>,time<1.006897>,send<9186>

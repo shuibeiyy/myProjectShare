@@ -1,0 +1,25 @@
+Info[2023-12-5 10:34:49]CELLLog::setLogPath success,<serverLog[2023-12-5_10-34-49].txt,w>
+Debug[2023-12-5 10:34:49]create socket<148> success...
+Debug[2023-12-5 10:34:49]bind port<4567> success...
+Debug[2023-12-5 10:34:49]listen port<148> success...
+Debug[2023-12-5 10:34:50]thread<4>,time<1.011187>,socket<148>,clients<0>,recv<0>,msg<0>
+Debug[2023-12-5 10:34:51]thread<4>,time<1.008123>,socket<148>,clients<0>,recv<0>,msg<0>
+Debug[2023-12-5 10:34:52]thread<4>,time<1.012793>,socket<148>,clients<0>,recv<0>,msg<0>
+Debug[2023-12-5 10:34:53]thread<4>,time<1.003706>,socket<148>,clients<0>,recv<0>,msg<0>
+Debug[2023-12-5 10:34:54]thread<4>,time<1.009263>,socket<148>,clients<729>,recv<0>,msg<0>
+Debug[2023-12-5 10:34:55]thread<4>,time<1.007889>,socket<148>,clients<1000>,recv<3968>,msg<3968>
+Debug[2023-12-5 10:34:56]thread<4>,time<1.006743>,socket<148>,clients<1000>,recv<9933>,msg<9933>
+Debug[2023-12-5 10:34:57]thread<4>,time<1.006911>,socket<148>,clients<1000>,recv<8938>,msg<8938>
+Debug[2023-12-5 10:34:58]thread<4>,time<1.005832>,socket<148>,clients<1000>,recv<9942>,msg<9942>
+Debug[2023-12-5 10:34:59]thread<4>,time<1.006874>,socket<148>,clients<1000>,recv<9186>,msg<9186>
+Debug[2023-12-5 10:35:0]thread<4>,time<1.006838>,socket<148>,clients<1000>,recv<9683>,msg<9683>
+Debug[2023-12-5 10:35:1]thread<4>,time<1.006687>,socket<148>,clients<1000>,recv<9188>,msg<9188>
+Debug[2023-12-5 10:35:2]thread<4>,time<1.006746>,socket<148>,clients<1000>,recv<9684>,msg<9684>
+Debug[2023-12-5 10:35:3]thread<4>,time<1.006921>,socket<148>,clients<1000>,recv<9931>,msg<9931>
+Debug[2023-12-5 10:35:4]thread<4>,time<1.006882>,socket<148>,clients<1000>,recv<8938>,msg<8938>
+Debug[2023-12-5 10:35:5]thread<4>,time<1.006856>,socket<148>,clients<1000>,recv<9931>,msg<9931>
+Debug[2023-12-5 10:35:6]thread<4>,time<1.006731>,socket<148>,clients<1000>,recv<8939>,msg<8939>
+Debug[2023-12-5 10:35:7]thread<4>,time<1.006733>,socket<148>,clients<1000>,recv<9933>,msg<9933>
+Debug[2023-12-5 10:35:8]thread<4>,time<1.006858>,socket<148>,clients<1000>,recv<9186>,msg<9186>
+Debug[2023-12-5 10:35:9]thread<4>,time<1.006828>,socket<148>,clients<1000>,recv<9683>,msg<9683>
+Debug[2023-12-5 10:35:10]thread<4>,time<1.006874>,socket<148>,clients<1000>,recv<9931>,msg<9931>
